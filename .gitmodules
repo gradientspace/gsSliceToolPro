@@ -10,3 +10,6 @@
 [submodule "gsGeometry"]
 	path = gsGeometry
 	url = https://github.com/gradientspace/gsGeometry
+[submodule "gsSlicerPro"]
+	path = gsSlicerPro
+	url = https://github.com/gradientspace/gsSlicerPro
