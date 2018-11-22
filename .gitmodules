@@ -7,3 +7,6 @@
 [submodule "gsSlicer"]
 	path = gsSlicer
 	url = https://github.com/gradientspace/gsSlicer
+[submodule "gsGeometry"]
+	path = gsGeometry
+	url = https://github.com/gradientspace/gsGeometry
